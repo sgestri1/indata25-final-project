@@ -1,5 +1,15 @@
 # indata25-final-project
 
+## Final Project Milestone 2 Reflection
+
+In my Final Project Plan Proposal, I stated this benchmark for Milestone 2: “I have determined what narratives from the data that I want to tell and have a draft of preservation recommendations for my final deliverable. Based on these findings, the concepts for my final visualizations are determined and I have started creating them. These visualizations are on their way to being completely functional but may not be aesthetically pleasing yet.”
+
+I ran out of time to do a whole lot of data visualization for this milestone, but overall I think I was able to meet most of what I outlined in my original Milestone 2 goal. First, I closely examined each URL in my 3 DataFrames to determine which of those URLs are actually valid, meaning they fit two criteria: 1) they are a URL that is actually within the LGBTQ+ Center website’s domain and not a different KSU domain/website and 2) the content associated with the URL actually makes sense to preserve and migrate to a different platform in the event the LGBTQ+ Center closes. Before I started I decided that if after this process I ended up with only a few URLs, then I would have to re-filter the DataFrames to include more URLs and I would go through the process again. Luckily, I was able to identify 9 valid URLs, 7 of which that I definitely want to recommend for preservation and migration, 1 of which I am rolling into my recommendation alongside one of the main 7, and 1 that I will display as a suggestion but with a disclaimer (this entire process is explained in the jupyter notebook itself). 
+
+Additionally, I did some data visualization that explored some basic concepts for my final visualizations. Based on feedback from Milestone 1, I created two horizontal barplots, which I think works well for one of my DataFrames. For the second DataFrame, I wondered if a scatterplot might work better to show the relationship between two variables, so I created one and talked about some changes I believe I should make. I do think that both of these are simple and easy for my audience to understand. I would say my graphs are at the ugly stage, but I don’t think they’re bad, and more work needs to be done before they are on their way to good. I think that is what I will mainly be working on for Milestone 3.
+
+~
+
 ## Final Project Milestone 1 Reflection
 
 In my Final Project Plan Proposal, I stated this benchmark for Milestone 1: “I have loaded all data files into pandas DataFrames, began experimenting with different visualizations, and am making any necessary adjustments to the DataFrames (e.g., I need to create a new column in order to accurately portray a certain graph) so they will be ready to be used for the final visualizations.”
