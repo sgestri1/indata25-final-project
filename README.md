@@ -1,5 +1,15 @@
 # indata25-final-project
 
+## Final Project Milestone 3 Reflection
+
+In my Final Project Plan Proposal, I stated this benchmark for Milestone 3: “All of my final visualizations are completed. They are functional, aesthetically pleasing and biologically relevant, and effectively communicate the intended messages of the data narrative. I am working on completing my final deliverable for the final project deadline (May 8th) but it may not be entirely ready at this milestone yet.”
+
+I am very happy with what I was able to accomplish for Milestone 3 in reference to the goals I initially set for it, and I think the majority of the work for this project is done (but obviously not all of it). First, I polished and added some finishing touches to my two main data visualizations (barplot and scatterplot). I believe these visualizations are easy to understand (keeping in mind my audience of busy professionals) and that they effectively communicate two things: 1) the webpages of our website that are the most utilized (highest views and highest engagement), and 2) from those most utilized webpages, which ones I specifically am recommending to be preserved/migrated to a new website. 
+
+I also created a draft presentation of my final deliverable using an outline I created in this milestone’s jupyter notebook (link to this presentation is at the end of the notebook). Within this draft presentation, I started to create the overview first, filter/zoom, and details on demand pieces of my data visualizations, keeping in mind that these are static images and not literal interactive graphs. The presentation is not finished (particularly the second half of the slides are mostly placeholder text or my thoughts on what content to put there), but I think this is a solid foundation on which to build the rest of my final deliverable. 
+
+~
+
 ## Final Project Milestone 2 Reflection
 
 In my Final Project Plan Proposal, I stated this benchmark for Milestone 2: “I have determined what narratives from the data that I want to tell and have a draft of preservation recommendations for my final deliverable. Based on these findings, the concepts for my final visualizations are determined and I have started creating them. These visualizations are on their way to being completely functional but may not be aesthetically pleasing yet.”
